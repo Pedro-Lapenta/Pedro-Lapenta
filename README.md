@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Lapenta</h1>
-<h3 align="center">A full-stack developer from Brazil</h3>
+<h3 align="center">A backend developer from Brazil</h3>
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
